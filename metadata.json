@@ -1,0 +1,5 @@
+{
+  "name": "Word Counter",
+  "description": "A web app to count words in a given text, with special options to count specific Bengali words like 'বোনাস' and variations of 'প্রোমো কোড'.",
+  "requestFramePermissions": []
+}
